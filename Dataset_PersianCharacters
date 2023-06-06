@@ -1,0 +1,2 @@
+You can find a large dataset including Persian characters here: https://www.kaggle.com/datasets/mehdisahraei/persian-alpha
+API command: kaggle datasets download -d mehdisahraei/persian-alpha
